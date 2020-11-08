@@ -1,4 +1,4 @@
-# react-native-android-display-none-bug
+# React Native, Android specific bug re: 'display: none' and borders
 
 This is meant to show a bug with React Native on Android where `display: 'none'` doesn't prevent an element's border from rendering. See the ReactNative Github issue [#30338](https://github.com/facebook/react-native/issues/30338).
 
